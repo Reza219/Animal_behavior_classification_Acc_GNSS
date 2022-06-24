@@ -1,3 +1,3 @@
-Data for the paper
+Data and code for reproducing the results of
 
-R. Arablouei et al., "Multi-modal Sensor Data Fusion for In-situ Classification of Animal Behavior Using Accelerometry and GNSS Data," submitted to Computers and Electronics in Agriculture, 2022.
+R. Arablouei et al., "Multi-modal sensor data fusion for in-situ classification of animal behavior using accelerometry and GNSS cata," submitted to Computers and Electronics in Agriculture, 2022.
