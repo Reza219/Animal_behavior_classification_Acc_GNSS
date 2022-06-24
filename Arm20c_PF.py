@@ -65,5 +65,3 @@ print(c)
 for ii in range(len(c)):
     print('MCC{0}: {1:0.4f} ± {2:.4f}'.format(ii, np.mean(mcc[ii]), np.std(mcc[ii])))
 print('MCC:  {0:0.4f} ± {1:.4f}'.format(np.mean(mc), np.std(mc)))
-
-plt.show()
